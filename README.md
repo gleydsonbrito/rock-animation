@@ -2,7 +2,7 @@
 
 ## Falling rock animation
 
-## Check it out: https://gleydsonbrito.github.io/falling-rock-css/
+## Check it out: https://gleydsonbrito.github.io/rock-animation/
 
 ### Folow me for more css tricks
 
