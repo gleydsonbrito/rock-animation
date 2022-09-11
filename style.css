@@ -22,8 +22,8 @@ body {
     height: 100px;
     width: auto;
     animation-name: fall;
-    animation-duration: .7s;
-    animation-timing-function: ease-out;
+    animation-duration: .9s;
+    animation-timing-function: ease-in;
 }
 
 @keyframes pow {
